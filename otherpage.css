@@ -1,0 +1,10 @@
+.breadcrumb{
+	position: relative;
+	left: 20px;
+	text-align:left;
+	font-size: 20px;
+}
+
+.breadcrumb a{
+	color: #2f4f4f;
+}
