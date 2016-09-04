@@ -1,0 +1,57 @@
+.thumbnail{
+	position: relative;
+	left:-500px;
+	top: 40px;
+}
+
+img.thumbnail_size{
+	border-radius: 200px;
+	width: 300px;
+	height: 300px;
+}
+
+.about{
+		position:relative;
+		left: 400px;
+		top: -198px;
+		
+}
+
+.link{
+		position:relative;
+		top: -320px;
+		left:700px;
+		
+}
+.work{
+		
+		position:relative;
+		top: -440px;
+		left: 1000px;
+		
+}	
+
+.enclosure {
+	background: #bbbbbb;
+	font-size: 200%;
+	width:200px;
+	padding: 10px;
+	margin: 0px;
+	/*
+	border-radius: 20px;
+	*/
+	border-style: solid;
+	border-width: 3px;
+	border-color: #333333; 
+
+
+}
+
+.enclosure a {
+	color: #333333;
+}
+
+.enclosure a:hover{
+	background: #4169e1;
+}
+
