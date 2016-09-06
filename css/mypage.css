@@ -29,6 +29,11 @@ body{
 	 padding:3px;	 
  }
 
+ .headr_text{
+ 	position: relative;
+ 	left: 10px;
+ }
+
 .footer{
 	background: #333333;
 	text-align: left;
