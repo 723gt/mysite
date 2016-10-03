@@ -1,0 +1,18 @@
+.link{
+    text-align: center;
+    font-size: 30px;
+}
+
+.link_github{
+    position: relative;
+    top:100px;
+}
+
+.link_twitter{
+    position: relative;
+    top:150px;
+}
+
+a{
+    color:#233445;
+}
