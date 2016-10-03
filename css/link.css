@@ -13,6 +13,21 @@
     top:150px;
 }
 
+.twitterlogo{
+    position: relative;
+    top:25px;
+    width: 5%;
+    height: 5%;
+}
+
+.githublogo{
+    position: relative;
+    top:10px;
+    left:-15px;
+    width: 5%;
+    height: 5%;
+}
+
 a{
     color:#233445;
 }
